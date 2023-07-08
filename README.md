@@ -1,4 +1,18 @@
-### Hi there 👋
+### ¡Hola queridas!
+
+👋🏼 Me llamo Matvey 👋🏼
+
++ Dolgoprudniy, Russia
++ 3rd year of bachelor's degree in MIPT (Moscow Institute of Physics and Technolog)
++ [@matmuh](https://t.me/matmuh)
+
+🌱 I'm fascinated by modelling environment with math and code.
+
+🏇🏼 Now study graphics (Unity, OpenGL).
+
+🐧 Ma projects with brief desription can be found in [CV](cv.pdf).
+
+![intro](into.png)
 
 <!--
 **matmuher/matmuher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
