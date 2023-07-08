@@ -12,7 +12,7 @@
 
 🐧 Ma projects with brief desription can be found in [CV](cv.pdf).
 
-![intro](into.png)
+![intro](intro.png)
 
 <!--
 **matmuher/matmuher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
