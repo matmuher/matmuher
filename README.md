@@ -1,14 +1,14 @@
 ### ¡Hola queridas!
 
-👋🏼 Me llamo Matvey 👋🏼
+👋🏼 Je m'apelle Matvey 👋🏼
 
 + Dolgoprudniy, Russia
-+ 3rd year of bachelor's degree in MIPT (Moscow Institute of Physics and Technolog)
++ 4th year bachelor, MIPT (Moscow Institute of Physics and Technolog)
 + [@matmuh](https://t.me/matmuh)
 
-🌱 I'm fascinated by modelling environment with math and code.
+🌱 Fascinated by modelling environment with math and code.
 
-🏇🏼 Now study graphics (Unity, OpenGL).
+🏇🏼 Keen on graphics (Unity, OpenGL, Vulkan).
 
 🐧 Ma projects with brief desription can be found in [CV](cv.pdf).
 
